@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-api-derpdzn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifpi-picos/nodejs-api-DerpDzn.git"
+  },
+  "author": "jonatas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifpi-picos/nodejs-api-DerpDzn/issues"
+  },
+  "homepage": "https://github.com/ifpi-picos/nodejs-api-DerpDzn#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.5"
+  }
+}
